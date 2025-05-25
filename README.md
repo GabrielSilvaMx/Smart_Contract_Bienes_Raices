@@ -5,7 +5,7 @@ Se tiene una propiedad valorada en $1,000,000 USD y se desea recaudar $400,000 s
 
 ## Etapas del Proyecto
 
-1. Definir el contrato de inmueble en tu país.
+1. Definir el contrato de inmueble en tu país y subirlo en una red descentralizada con InterPlanetary File System (IPFS).
 2. Crear tu billetera en MyEtherWallet (MEW).
 3. Solicitar ETH de prueba desde un faucet Sepolia.
 4. Desarrollar el contrato en Solidity 0.8 en la plataforma Remix
