@@ -14,6 +14,10 @@ Se tiene una propiedad valorada en $1,000,000 USD y se desea recaudar $400,000 s
 4. Desarrollar el contrato ERC20 en Solidity desde la plataforma Remix [[Ver Etapa 4]](Etapa4/smart_contract.md)
 5. Publicación y verificación del contrato [[Ver Etapa 5]](Etapa5/publicacion.md)
 
+***
+>** Repositorio del proyecto en Solidity: https://github.com/GabrielSilvaMx/MiInmuebleToken
+***
+
 Nota importante:
 - Ya se debe de tener una cuenta en la Web3.
 - Tener instalado [Metamask](https://support.metamask.io/) 
